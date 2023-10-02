@@ -1,6 +1,7 @@
 # UAVNav
 This is a sample project which contains some general elements of a graduate research project I undertook at Purdue ECE. 
 Due to regulatory reasons, I can't share the project details so I use GymAI here to generate environments and use a similar (but not the exact) algorithmic techniques that were used during the project. 
+
 To be precise, here is what I've done:
   1. Generated environments from GymAI.
   2. Created an actor-critic network loop to execute and evaluate Q Values of actions.
