@@ -1,6 +1,7 @@
 # UAVNav
-This is a sample project which contains some general elements of a graduate research project I undertook at Purdue ECE. 
-Due to regulatory reasons, I can't share the project details so I use GymAI here to generate environments and use a similar (but not the exact) algorithmic techniques that were used during the project. 
+This is a sample project which contains some general elements of a graduate research project I undertook at Purdue ECE. In the original project, DDPG was used to select optimal actions. Rigorous validation and simulations were performed using the CARLA simulator. 
+
+Due to the project not being open source yet, I use GymAI here to generate environments and use similar (but not the exact) algorithmic techniques that were used during the project. 
 
 To be precise, here is what I've done:
   1. Generated environments from GymAI.
